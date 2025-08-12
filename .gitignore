@@ -1,0 +1,27 @@
+# Node / Expo
+app/node_modules/
+app/.expo/
+app/.expo-shared/
+app/.cache/
+app/dist/
+app/.turbo/
+*.log
+
+# Python
+api/.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local data
+app.db
+static/
+
+# Env/config
+.env
+.env.*
