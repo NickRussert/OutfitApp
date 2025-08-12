@@ -27,6 +27,3 @@ build/
 .DS_Store
 Thumbs.db
 
-# Keep app/ but ignore its node_modules
-app/node_modules/
-app/
