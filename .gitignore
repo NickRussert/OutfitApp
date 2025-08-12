@@ -1,11 +1,4 @@
-# Node / Expo
-app/node_modules/
-app/.expo/
-app/.expo-shared/
-app/.cache/
-app/dist/
-app/.turbo/
-*.log
+
 
 # Python
 api/.venv/
